@@ -10,6 +10,9 @@
 
 <h2> It will be nice to enjoy this class everyday </h2>
 
+<h1> I can't wait for you to start updating the web server automatically every 2 minutes </h1>
+
+
 <html lang="zxx"><head>
     <meta charset="UTF-8">
     <meta name="description" content="Directing Template">
