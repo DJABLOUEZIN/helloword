@@ -28,10 +28,12 @@ pipeline {
          stage('push') {
             steps {
                 echo 'Hello push'
-                sh 'docker ps'
+                sh 'dockerps'
             }
         }
-        post {
+    }
+
+post {
         always {
             echo "Always display this message "
         }
